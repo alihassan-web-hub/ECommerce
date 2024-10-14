@@ -1,0 +1,17 @@
+com\mycompany\e\commerce_platform\ECommerce_Platform.class
+com\mycompany\e\commerce_platform\ProductList.class
+com\mycompany\e\commerce_platform\Review.class
+com\mycompany\e\commerce_platform\Product.class
+com\mycompany\e\commerce_platform\Store.class
+com\mycompany\e\commerce_platform\OnlinePayment.class
+com\mycompany\e\commerce_platform\Cart.class
+com\mycompany\e\commerce_platform\Delivery.class
+com\mycompany\e\commerce_platform\Customer.class
+com\mycompany\e\commerce_platform\Payment.class
+com\mycompany\e\commerce_platform\StoreOwner.class
+com\mycompany\e\commerce_platform\Person.class
+com\mycompany\e\commerce_platform\OrderList.class
+com\mycompany\e\commerce_platform\CashOnDelivery.class
+com\mycompany\e\commerce_platform\Order.class
+com\mycompany\e\commerce_platform\Gson.class
+com\mycompany\e\commerce_platform\FileHandler.class
