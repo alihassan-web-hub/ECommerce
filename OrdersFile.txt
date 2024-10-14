@@ -1,0 +1,2 @@
+224,13123,[com.mycompany.e.commerce_platform.Product@443b7951],2869.0,Sun Oct 13 14:12:53 PKT 2024
+860,13123,[com.mycompany.e.commerce_platform.Product@443b7951],3082.0,Sun Oct 13 14:13:51 PKT 2024
